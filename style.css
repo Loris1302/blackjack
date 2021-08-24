@@ -1,0 +1,39 @@
+
+
+body{
+    background-color: darkgreen;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+
+}
+
+
+h1{
+    color: rgb(221, 204, 46);
+}
+
+#message{
+    font-style: italic;
+}
+#startGameBtn{
+    color: darkgreen;
+    width: 150px;
+    background-color: rgb(221, 204, 46);
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+}
+#newCardBtn{
+    color: darkgreen;
+    width: 150px;
+    background-color: rgb(221, 204, 46);
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+}
